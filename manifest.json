@@ -1,0 +1,38 @@
+{
+  "name": "Pemuda MAJLIS NURUL MUSTHOFA",
+  "short_name": "PMNM",
+  "start_url": "https://www.pemudanurulmusthofa.org",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#EE3322",
+  "description": "Website Resmi Kami PMNM - Penebar Cinta Dari Negeri Fana",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-BixkdK30KVU/X1pZKsx6X2I/AAAAAAAAXC4/Tx9X__BRyo0zkopgTdiG4iQuA75lGVx2QCLcBGAsYHQ/s48/android-icon-pmnm.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BixkdK30KVU/X1pZKsx6X2I/AAAAAAAAXC4/Tx9X__BRyo0zkopgTdiG4iQuA75lGVx2QCLcBGAsYHQ/s72/android-icon-pmnm.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BixkdK30KVU/X1pZKsx6X2I/AAAAAAAAXC4/Tx9X__BRyo0zkopgTdiG4iQuA75lGVx2QCLcBGAsYHQ/s96/android-icon-pmnm.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BixkdK30KVU/X1pZKsx6X2I/AAAAAAAAXC4/Tx9X__BRyo0zkopgTdiG4iQuA75lGVx2QCLcBGAsYHQ/s144/android-icon-pmnm.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BixkdK30KVU/X1pZKsx6X2I/AAAAAAAAXC4/Tx9X__BRyo0zkopgTdiG4iQuA75lGVx2QCLcBGAsYHQ/s168/android-icon-pmnm.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BixkdK30KVU/X1pZKsx6X2I/AAAAAAAAXC4/Tx9X__BRyo0zkopgTdiG4iQuA75lGVx2QCLcBGAsYHQ/s192/android-icon-pmnm.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BixkdK30KVU/X1pZKsx6X2I/AAAAAAAAXC4/Tx9X__BRyo0zkopgTdiG4iQuA75lGVx2QCLcBGAsYHQ/s512/android-icon-pmnm.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
